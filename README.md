@@ -24,7 +24,7 @@ npm -v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fuadalro7/playwright-automation.git
+   git clone https://github.com/fuadalro7/playwright-automation-new.git
    cd playwright-automation
    ```
 
